@@ -1,7 +1,7 @@
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm UDAY KUMAR</h1>
 
 <p align="center">
-  <a href="https://t.me/MortalViking"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://telegram.dog/MortalViking"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
 </p>
 
 ## About Me<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" height="36"> :
