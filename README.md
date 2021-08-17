@@ -12,6 +12,13 @@
     - English
     - Telugu
     - Hindi
+    
+## Projects  <img src="https://telegra.ph/file/2f25819f6268ca2d29bf7.gif" width="27" height="27" theme=highcontrast> :
+- [GrootChat](https://github.com/UdayKumarChunduru/GrootChat)<details><summary>Details</summary><p>Developed a Small Chatting Android Application as a part of My Internship Project</p></details>
+
+## Editors and IDLE's :
+- Visual Studio Code
+- Anaconda Jupiter 
 
 ## GitHub Stats :
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-UdayKumarChunduru&colour=highcontrast)
